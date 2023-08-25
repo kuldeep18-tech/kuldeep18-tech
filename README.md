@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kuldeep Sahoo
+- 👀 I’m interested in ethical hacking
+- 🌱 I’m currently learning AIML(Artificial Inteligence & Machine Lerning)
